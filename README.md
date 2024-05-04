@@ -2,7 +2,7 @@
 
 This product was created to address the following social challenge in the SUTD X ESSEC Create4Good Hackathon 2024: **How might we effectively provide career guidance to women in tech? (Supported by: The Codette Project)**
 
-The product features below address key issues faced by entry-level women in tech.
+The product features below address key issues faced by entry-level women in tech!
 
 **ISSUE 1:** Representation Bias in AI Technology (specifically LLMs)
 
