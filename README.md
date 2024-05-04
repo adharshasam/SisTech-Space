@@ -1,8 +1,6 @@
 # SisTech-Space
 
-This product was created to address the following social challenge in the **SUTD X ESSEC Create4Good Hackathon 2024**.
-
-<img width="311" alt="c4g" src="https://github.com/adharshasam/SisTech-Space/assets/64684527/1638f60a-9813-4949-b1a9-4548d1040357">
+This product was created to address the following social challenge in the SUTD X ESSEC Create4Good Hackathon 2024: **How might we effectively provide career guidance to women in tech? (Supported by: The Codette Project)**
 
 The product features below address key issues faced by entry-level women in tech.
 
