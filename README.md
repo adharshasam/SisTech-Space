@@ -1,3 +1,3 @@
 # SisTech-Space
 
-https://github.com/adharshasam/SisTech-Space/assets/64684527/a2b8283f-990c-4e3e-bd58-0bb4dc8e1874
+https://github.com/adharshasam/SisTech-Space/assets/64684527/b976df68-9be1-4b2c-bdec-cac8b0c5584c
