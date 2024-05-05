@@ -8,6 +8,8 @@ The prototype features below address [key issues faced by entry-level women in t
 
 **SOLUTION:** [Fine-Tuned LLM for Women in Tech](https://github.com/adharshasam/SisTech-Space/tree/main/Finetuned%20LLM)
 
+*An AI assistant - powered by Open AI's GPT-3.5 model & Streamlit web interface - that responds to user queries based on the context provided by text data retrieved from a SQLite database files.*
+
 https://github.com/adharshasam/SisTech-Space/assets/64684527/b976df68-9be1-4b2c-bdec-cac8b0c5584c
 
 **ISSUE 2:** Scarcity of Female Camaraderie due to Gender Gap
@@ -20,4 +22,4 @@ https://github.com/adharshasam/SisTech-Space/assets/64684527/b976df68-9be1-4b2c-
 
 **SOLUTION:** ‘Woman of the Day’ Card
 
-![feature4](https://github.com/adharshasam/SisTech-Space/assets/64684527/438811c4-ab29-47ae-8c40-da9a67e8c335)
+![feature4](https://github.com/adharshasam/SisTech-Space/assets/64684527/41b3f218-f283-405b-ab03-bec9ac9b5d93)
