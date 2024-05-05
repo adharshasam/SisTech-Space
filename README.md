@@ -22,4 +22,4 @@ https://github.com/adharshasam/SisTech-Space/assets/64684527/b976df68-9be1-4b2c-
 
 **SOLUTION:** ‘Woman of the Day’ Card
 
-![feature4](https://github.com/adharshasam/SisTech-Space/assets/64684527/41b3f218-f283-405b-ab03-bec9ac9b5d93)
+![feature4](https://github.com/adharshasam/SisTech-Space/assets/64684527/768fecc9-cdb9-45ed-995d-e107c1a11de7)
